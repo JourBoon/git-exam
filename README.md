@@ -1,1 +1,1 @@
-deux fonctionnalités + modif aléatoire
+deux fonctionnalités
